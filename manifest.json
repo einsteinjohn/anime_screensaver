@@ -1,0 +1,8 @@
+{
+  "name": "Anime Screensaver Visualizer",
+  "description": "Custom anime aerial screensaver source",
+  "scenes": ["landscape"],
+  "manifestUrl": "https://raw.githubusercontent.com/einsteinjohn/anime_screensaver/main/entries.json",
+  "local": false,
+  "cacheable": true
+}
